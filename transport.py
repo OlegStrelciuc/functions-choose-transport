@@ -110,7 +110,7 @@ printResult(distance_km, duration_h, "WALKING")
 
 ############# <BIKE> ##############
 
-answer_bK = evaluateTransport(
+answer_bk = evaluateTransport(
     user_departure_km,
     user_destination_km,
     user_road_max_duration_h,
